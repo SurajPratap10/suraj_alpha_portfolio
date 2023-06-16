@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "TrailBlaze",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "TrailBlaze is an all-in-one movie and TV show app built using React, Redux Toolkit, and the TMDB API. With a beautifully designed front-end, it offers a seamless viewing experience for users. The app allows users to choose from various genres and filter their search results by rating, making it easy to find the perfect movie or TV show to watch.",
+    url: "https://github.com/SurajPratap10/TrailBlaze",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Imagine_AI",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to solve the problem of limited creativity and imagination. This is a fully mobile responsive image generator built with Node.js and Express that uses OpenAI's Dall-E models to generate images.",
+    url: "https://github.com/SurajPratap10/Imagine_AI",
   },
   {
-    title: "My Resume Site",
+    title: "Remindify",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Remindify is a MERN stack app that can easily add tasks with their deadlines to ensure that you stay on top of your to-do list. Once you've added a task, our app will automatically send you a WhatsApp message at the specified time to remind you of what you need to do.",
+    url: "https://github.com/SurajPratap10/Remindify",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "CoinMeter",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "CoinMeter is a completely responsive and functional real-time Cryptocurrency data fetching app. This app gives you the facility to analyze the top cryptocurrencies across the world and see their real-time market cap and exchanges with the help of a properly designed historical chart for each coin with a clean UI experience.It also has a trending section where the last 24 hours profitable coins are shown.",
+    url: "https://github.com/SurajPratap10/CoinMeter_Project6",
   },
 ];
 
