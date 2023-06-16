@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Suraj Pratap",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Web Developer and Open Source Enthusiast",
+  email: "surajpratap20002003@gmail.com",
+  gitHub: "SurajPratap10",
+  instagram: "",
+  linkedIn: "suraj-pratap-948a92225/",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
